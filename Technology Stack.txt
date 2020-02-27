@@ -1,0 +1,9 @@
+•	Arduino Uno 
+•	Ultrasonic Sensor
+•	Cables and Connectors  
+•	Survo motor
+
+2)Software Specifications
+ 
+•	Arduino Compiler 
+•	Programming Language: C 
